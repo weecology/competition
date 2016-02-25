@@ -26,6 +26,7 @@ Fund a Kaggle-style competition with forecasting a large ecological data set
 
 * Dave likes joint likelihoods, but could be tricky to implement unless we ask for a batch of Monte Carlo predictions for each site. Unclear if there's a simpler alternative that accomplishes the same thing
 * Shawn pointed out that we could also ask domain experts and managers what they want to optimize
+* Kaggle doesn't have any [examples of metrics](https://www.kaggle.com/wiki/Metrics) that would work well for abundance data, but I don't think they'd object to something like negative binomial log-likelihood as a metric.
 
 ## Timing/duration
 
