@@ -51,7 +51,7 @@ Fund a Kaggle-style competition with forecasting a large ecological data set
 * Prize money
 * Open access fees
 * If mini-conference or working group, travel money?
-* Time investment
+* Time investment (before, during, and after competition)
 
 ## Alternatives to Kaggle as host
 
