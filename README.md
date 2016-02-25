@@ -15,16 +15,30 @@ Fund a Kaggle-style competition with forecasting a large ecological data set
 * A data set that's already been collected and is not public could have logistic advantages over BBS
 * A plant data set (where the weather on the day of collection doesn't matter as much) could have advantages over BBS
 * Need to prevent "[leakage](https://www.kaggle.com/wiki/Leakage)" from training set to test set.
+* Kaggle can put restrictions on the license of the data, if data source wants
+
+## Auxiliary data sets
+
+* Should provide as many good environmental variables as we can
+* Should probably allow competitors to any public data set under certain conditions (I think that some competitions say the  competitors have to announce what data sets they're using on the forums)
 
 ## Evaluation metric
 
 * Dave likes joint likelihoods, but could be tricky to implement unless we ask for a batch of Monte Carlo predictions for each site. Unclear if there's a simpler alternative that accomplishes the same thing
 * Shawn pointed out that we could also ask domain experts and managers what they want to optimize
 
+## Timing/duration
+
+* Timing may be depend a lot on the data provider
+* 2-3 months seems like typical competition length
+  * Heritage Health Prize was much longer, but had a complicated structure
+* What trade-offs are associated with longer versus shorter?
+
 ## Prize money
 
 * 10K, split among victors, seems to have worked well for other competitions (e.g. whales)
 * Some competitions also have prizes for separate contributions (e.g. best visualization
+* Kaggle will take a cut of the money, so total cost will be higher than total payout
 
 ## Post-competition incentives
 
@@ -37,3 +51,22 @@ Fund a Kaggle-style competition with forecasting a large ecological data set
 * Open access fees
 * If mini-conference or working group, travel money?
 * Time investment
+
+## Alternatives to Kaggle as host
+
+I have no idea if any of these are any good
+
+* CrowdANALYTIX
+* Tunedit
+* InnoCentive
+* Topcoder
+* HackerRank
+
+## More information about hosting a competition on Kaggle
+
+* Case study reports: https://www.kaggle.com/solutions/customers
+* Checklist: https://www.kaggle.com/host/faq/checklist
+* FAQ for hosts: https://www.kaggle.com/host/faq (link is now a redirect, but might be on archive.org.  Much of the information seems to have migrated to the wiki)
+* Wiki:
+  * Information for hosts: https://www.kaggle.com/wiki/InformationForHosts
+* Quora answers: https://www.quora.com/Is-it-worth-hosting-a-Kaggle-money-competition
