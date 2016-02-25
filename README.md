@@ -51,7 +51,21 @@ Fund a Kaggle-style competition with forecasting a large ecological data set
 * Prize money
 * Open access fees
 * If mini-conference or working group, travel money?
-* Time investment (before, during, and after competition)
+* Time investment
+  * before competition:
+    * Coordinating with Kaggle 
+    * Coordinating with data provider(s)
+    * Curating the data
+    * Picking a metric
+    * Writing the website blurbs
+    * [Other checklist items](https://www.kaggle.com/wiki/CompetitionLaunchChecklist)
+  * during competition: 
+    * Publicize competition
+    * Responding to user questions on the forum
+  * after competition:
+    * Evaluating winners (e.g. confirming that they followed the rules)
+    * Organizing paper or special issue
+    * Organizing symposium
 
 ## Alternatives to Kaggle as host
 
