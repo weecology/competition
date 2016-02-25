@@ -32,7 +32,7 @@ Fund a Kaggle-style competition with forecasting a large ecological data set
 
 * Timing may be depend a lot on the data provider
 * 2-3 months seems like typical competition length
-  * Heritage Health Prize was much longer, but had a complicated structure
+  * Heritage Health Prize was much longer (years) but had a complicated structure
 * What trade-offs are associated with longer versus shorter?
 
 ## Prize money
