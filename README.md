@@ -7,6 +7,7 @@ Fund a Kaggle-style competition with forecasting a large ecological data set
 ## Data set
 
 * BBS is the obvious choice, but it would make sense to explore other options
+  * Not clear that predicting 1 year forward at sites that have already been visited dozens of times is an interesting enough task
   * Need to get permission from BBS
   * Need to work around their schedule for posting data
     * Possible issue: can't predict when they'll release data, so can't give date for competition victory
