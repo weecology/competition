@@ -18,6 +18,16 @@ Fund a Kaggle-style competition with forecasting a large ecological data set
 * Need to prevent "[leakage](https://www.kaggle.com/wiki/Leakage)" from training set to test set.
 * Kaggle can put restrictions on the license of the data, if data source wants
 
+* Portal data 
+  * Data collected since the latest oficial release could be used as the testing data.
+  * It might also be possible to anonymize the data in such a way that trying to use the raw portal data available would be useless
+
+* [Fish counts](http://www.fpc.org/currentdaily/HistFishTwo_7day-ytd_Adults.htm)
+  * This is an interesting site which summarizes daily fish counts of salmon passing thru dams on the columbia river.
+  * With such high frequency it would be possible to have test data that isn't collected yet. 
+
+
+
 ## Auxiliary data sets
 
 * Should provide as many good environmental variables as we can
